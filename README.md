@@ -1,12 +1,18 @@
 # Plasticine
 
-[![License Badge][license-badge]][license-url] [![version Badge][version]][market-url]
-
-## Development
+ A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
 The theme is designed specifically for code highlighting `.liquid` files.
-
 Also adapted colors for `.html .js .scss`
+
+## INSTALLATION
+
+1. In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).  
+
+2. You can also use the keyboard shortcut ⌘K ⌘T to display the picker.
+
+3. Use the cursor keys to preview the colors of the theme.  
+Select the Plasticine theme and press Enter.
 
 ## For proper operation, it is recommended to install
 
@@ -20,7 +26,7 @@ Also adapted colors for `.html .js .scss`
 
 ## License
 
-[MIT](https://github.com/OlegKrechkovskiy/plasticine/blob/main/LICENSE.md)
+MIT - see license details [here][license-url]
 
 **Enjoy!**
 
