@@ -2,7 +2,7 @@
   "name": "plasticine",
   "displayName": "Plasticine",
   "description": "Theme with support liquid",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -16,15 +16,15 @@
     "plastic",
     "Plasticine",
     "liquid"
-	],
+  ],
   "author": "Oleg Krechkovskiy",
   "publisher": "myxlxal",
   "license": "SEE LICENSE IN LICENSE.md",
-	"homepage": "https://github.com/OlegKrechkovskiy/plasticine.git",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/OlegKrechkovskiy/plasticine.git"
-	},
+  "homepage": "https://github.com/OlegKrechkovskiy/plasticine.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegKrechkovskiy/plasticine.git"
+  },
   "icon": "images/icon.png",
   "contributes": {
     "themes": [
