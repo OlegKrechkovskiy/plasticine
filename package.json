@@ -2,7 +2,7 @@
   "name": "plasticine",
   "displayName": "Plasticine",
   "description": "Theme with support liquid",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -38,10 +38,10 @@
         "path": "./themes/plasticine-color-theme.json"
       },
       {
-				"label": "Plasticine Mirage",
-				"uiTheme": "vs-dark",
-				"path": "./themes/plasticine-mirage-color-theme.json"
-			}
+        "label": "Plasticine Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plasticine-mirage-color-theme.json"
+      }
     ]
   }
 }
