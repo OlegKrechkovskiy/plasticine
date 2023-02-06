@@ -19,6 +19,13 @@ Select the Plasticine theme and press Enter.
 - [Liquid Languages Support][liquid-languages-support-ext-url]
 - [Shopify Liquid Template Snippets][shopify-liquid-template-snippets-ext-url]
 
+## Screenshots
+#### Plasticine
+![Plasticide](https://github.com/OlegKrechkovskiy/plasticine/raw/HEAD/images/plasticide-theme.png)
+
+#### Plasticine Mirage
+![Plasticide](https://github.com/OlegKrechkovskiy/plasticine/raw/HEAD/images/plasticide-mirage-theme.png)
+
 ## More information
 
 * [GitHub](https://github.com/OlegKrechkovskiy)
