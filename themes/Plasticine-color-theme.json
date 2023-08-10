@@ -371,14 +371,15 @@
 			"scope": [
         "support.variable.liquid",
         "variable.parameter.liquid",
-        "support.class.object-value.liquid",
+        "string.other.property-value.liquid"
       ],
 			"settings": {
-				"foreground": "#7af8ecec"
+        "foreground": "#7af8ecec"
 			}
 		},
 		{
-			"scope": [
+      "scope": [
+        "support.class.object-value.liquid",
         "support.class.object.liquid",
         "variable.other.liquid",
       ],
@@ -393,6 +394,7 @@
         "entity.name.tag.control.liquid",
         "keyword.operator.liquid",
         "entity.name.tag.iteration.liquid",
+        "entity.name.tag.method.liquid",
       ],
 			"settings": {
         "foreground": "#ffabfe",

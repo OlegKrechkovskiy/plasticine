@@ -230,6 +230,8 @@
 		"terminal.border": "#3a2901",
     "minimapSlider.hoverBackground": "#b3b6c745",
     "minimapSlider.activeBackground": "#4e5aa96a",
+		"bookmarks.lineBackground": "#1480fb20",
+    "bookmarks.lineBorder": "#1480fbd4",
 	},
 	"tokenColors": [
 		{
@@ -893,10 +895,28 @@
 			"scope": [
         "support.variable.liquid",
         "variable.parameter.liquid",
-        "support.class.object-value.liquid",
+				"string.other.property-value.liquid"
       ],
 			"settings": {
 				"foreground": "#7af8ecec"
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric.property-value.liquid",
+      ],
+			"settings": {
+				"foreground": "#7ad0f8",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"constant.language.object-value.liquid",
+      ],
+			"settings": {
+				"foreground": "#7af8ecec",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -911,10 +931,12 @@
 		{
 			"scope": [
         "support.class.object.liquid",
+				"support.class.object-value.liquid",
+				"support.class.object-value.liquid",
         "variable.other.liquid",
       ],
 			"settings": {
-				"foreground": "#f0eed4",
+				"foreground": "#f9f9f0",
 			}
 		},
 		{
@@ -924,6 +946,7 @@
         "entity.name.tag.control.liquid",
         "keyword.operator.liquid",
         "entity.name.tag.iteration.liquid",
+        "entity.name.tag.method.liquid",
       ],
 			"settings": {
         "foreground": "#ffabfe",
@@ -959,6 +982,15 @@
 		],
 			"settings": {
 				"foreground": "#E06C75",
+			}
+		},
+		{
+			"scope": [
+				"constant.character.entity.named.nbsp.html",
+			],
+			"settings": {
+				// "foreground": "#FFD173",
+				"fontStyle": "italic underline"
 			}
 		},
 		{
