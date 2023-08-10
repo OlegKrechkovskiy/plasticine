@@ -329,39 +329,97 @@
 			}
 		},
 		{
-			"scope": "punctuation.tag.liquid",
+			"scope": [
+        "punctuation.tag.liquid",
+        "punctuation.definition.tag",
+        "punctuation.definition.tag.begin.liquid",
+        "punctuation.definition.tag.end.liquid",
+        "punctuation.output.liquid",
+        "source.liquid"
+    ],
 			"settings": {
 				"foreground": "#fff706b9",
 			}
 		},
 		{
-			"scope": "punctuation.output.liquid",
+			"scope": [
+        "keyword.other.dot.liquid"
+      ],
 			"settings": {
 				"foreground": "#fff706b9",
 			}
 		},
 		{
-			"scope": "support.variable.liquid",
+			"scope": [
+        "keyword.operator.equality.liquid",
+        "keyword.operator.assignment.augmented.liquid"
+      ],
+			"settings": {
+				"foreground": "#fff706b9",
+			}
+		},
+		{
+			"scope": [
+        "punctuation.output.liquid",
+        "source.liquid"
+      ],
+			"settings": {
+				"foreground": "#61afef",
+			}
+		},
+		{
+			"scope": [
+        "support.variable.liquid",
+        "variable.parameter.liquid",
+        "support.class.object-value.liquid",
+      ],
 			"settings": {
 				"foreground": "#7af8ecec"
 			}
 		},
 		{
-			"scope": "variable.other.liquid",
+			"scope": [
+        "support.class.object.liquid",
+        "variable.other.liquid",
+      ],
 			"settings": {
 				"foreground": "#f0eed4",
 			}
 		},
 		{
-			"scope": "keyword.operator.liquid",
+			"scope": [
+        "entity.name.tag.conditional.liquid",
+        "keyword.operator.logical.liquid",
+        "entity.name.tag.control.liquid",
+        "keyword.operator.liquid",
+        "entity.name.tag.iteration.liquid",
+      ],
+			"settings": {
+        "foreground": "#ffabfe",
+			}
+		},
+		{
+      "scope": [
+        "entity.name.tag.variable.liquid",
+      ],
 			"settings": {
 				"foreground": "#ffabfe",
+        "fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "entity.name.tag.liquid",
 			"settings": {
 				"foreground": "#fda8fc",
+			}
+		},
+		{
+			"scope": [
+        "support.function.filter.liquid",
+        "keyword.separator.pipe.liquid"
+      ],
+			"settings": {
+				"foreground": "#E06C75",
 			}
 		},
 		{
