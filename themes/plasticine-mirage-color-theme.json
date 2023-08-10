@@ -525,7 +525,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#5ccfe680"
+				"foreground": "#c1f7f0"
 			}
 		},
 		{
@@ -1040,7 +1040,7 @@
 			}
 		},
 		{
-			"scope": "entity.name.function.js",
+			"scope": ["entity.name.function.js","entity.name.function"],
 			"settings": {
 				"foreground": "#cd91f8eb",
 			}
