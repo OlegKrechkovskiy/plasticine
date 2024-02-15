@@ -1,6 +1,8 @@
 # Change Log
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
+## [0.5.3]
+- Fixed some colors.
 ## [0.3.0]
 - Added highlighting of classes in liquid in the theme "Plasticide Mirage"
 - Added highlighting of variable in liquid in the theme "Plasticide Mirage"
