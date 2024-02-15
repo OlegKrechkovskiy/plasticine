@@ -64,7 +64,7 @@
     "editorHoverWidget.background": "#181A1F",
     "editorHoverWidget.border": "#1085FF",
     "editorIndentGuide.activeBackground": "#ccff00",
-    "editorIndentGuide.activeBackground1": "#ccff00",
+    // "editorIndentGuide.activeBackground1": "#ccff00",
     "editorIndentGuide.background": "#4948486c",
     "editorInfo.foreground": "#1085FF",
     "editorInlayHint.background": "#00000000",
