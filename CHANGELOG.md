@@ -1,6 +1,10 @@
 # Change Log
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
+
+
+## [0.5.5]
+- Updated the appearance of some colors in the editor.
 ## [0.5.4]
 - Fixed a bug with the color of the editor's indentation guide.
 ## [0.5.3]
