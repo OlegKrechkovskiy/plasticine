@@ -3,6 +3,8 @@
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
 
+## [0.5.6]
+- Updated the appearance of some colors in the editor.
 ## [0.5.5]
 - Updated the appearance of some colors in the editor.
 ## [0.5.4]
