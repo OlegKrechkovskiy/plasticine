@@ -135,7 +135,7 @@
 		"editorOverviewRuler.wordHighlightStrongForeground": "#87d96c66",
 		"editorOverviewRuler.findMatchForeground": "#695380a6",
 		"editorError.foreground": "#ff6666",
-		"editorError.background": "#e80c0874",
+		"editorError.background": "#ef171754",
 		"editorWarning.foreground": "#ffcc66",
 		"editorGutter.modifiedBackground": "#80bfffcc",
 		"editorGutter.addedBackground": "#87d96ccc",
@@ -263,7 +263,7 @@
 				"constant.other.symbol"
 			],
 			"settings": {
-				"foreground": "#d5ff80e4"
+				"foreground": "#81e378c9"
 				// "foreground": "#d5ff80"
 			}
 		},
@@ -848,6 +848,17 @@
 			"settings": {
 				// "background": "#cccac2",
 				"foreground": "#b8cfe680"
+			}
+		},
+		{
+			"scope": [
+				"string.quoted.double.html",
+				"meta.attribute.class.html",
+				"meta.tag.structure.div.start.html",
+				"text.html.liquid"
+			],
+			"settings": {
+				"foreground": "#81e378c9",
 			}
 		},
 		{
