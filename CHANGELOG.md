@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.7.5]
+- Fixed some colors in the theme "Plasticide Mirage"
 ## [0.7.4]
 - In the Plastic Mirage theme, some changes were made to the appearance of flowers.
 ## [0.7.3]
