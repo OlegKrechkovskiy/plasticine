@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.7.6]
+- Added a new theme "Plasticine Material" based on the old "Material theme"
 ## [0.7.5]
 - Fixed some colors in the theme "Plasticide Mirage"
 ## [0.7.4]

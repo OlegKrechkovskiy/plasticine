@@ -26,6 +26,9 @@ Select the Plasticine theme and press Enter.
 #### Plasticine Mirage
 ![Plasticide](https://github.com/OlegKrechkovskiy/plasticine/raw/HEAD/images/plasticide-mirage-theme.png)
 
+#### Plasticine Material
+![Plasticide](https://github.com/OlegKrechkovskiy/plasticine/raw/HEAD/images/plasticine-material-theme.png)
+
 ## More information
 
 * [GitHub](https://github.com/OlegKrechkovskiy)
@@ -37,9 +40,9 @@ MIT - see license details [here][license-url]
 
 **Enjoy!**
 
-[version]: https://img.shields.io/badge/marketplace_-v0.7.5-orange
+[version]: https://img.shields.io/badge/marketplace_-v0.7.6-orange
 [license-badge]: https://img.shields.io/badge/license-MIT-blue
-[version]: https://img.shields.io/badge/v0.7.5-orange
+[version]: https://img.shields.io/badge/v0.7.6-orange
 [license-url]: https://github.com/OlegKrechkovskiy/plasticine/blob/main/LICENSE.md
 [market-url]:https://marketplace.visualstudio.com/items?itemName=myxlxal.plasticine
 
