@@ -912,6 +912,7 @@
 		{
 			"scope": [
 				"constant.numeric.property-value.liquid",
+				"constant.numeric.liquid"
 			],
 			"settings": {
 				"foreground": "#7ad0f8",
