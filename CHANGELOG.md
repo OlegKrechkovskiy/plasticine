@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.8.2]
+- Fixed some colors in the theme "Plasticide Gray"
 ## [0.8.1]
 - Fixed some colors.
 ## [0.8.0]
