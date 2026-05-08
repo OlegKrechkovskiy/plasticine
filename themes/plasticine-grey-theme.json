@@ -98,6 +98,14 @@
 		"list.inactiveFocusOutline": "#a0a0a0",
 		"list.inactiveSelectionBackground": "#636e7b66",
 		"list.inactiveSelectionForeground": "#adbac7",
+    "minimap.findMatchHighlight": "#1084ff83",
+    "minimap.selectionHighlight": "#c6ccd787",
+    "minimapSlider.activeBackground": "#4e5aa96a",
+    "minimapSlider.background": "#d5d5d51d",
+    "minimapSlider.hoverBackground": "#b3b6c745",
+    "minimapGutter.addedBackground": "#98C379",
+    "minimapGutter.deletedBackground": "#E06C75",
+    "minimapGutter.modifiedBackground": "#D19A66",
 		"notificationCenterHeader.background": "#2d333b",
 		"notificationCenterHeader.foreground": "#768390",
 		"notifications.background": "#2d333b",
@@ -2703,7 +2711,7 @@
 		{
 			"scope": "comment, string.comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#5c5f5ce9",
+				// "foreground": "#ffffff60",
 				"fontStyle": "italic"
 			}
 		},
@@ -2786,7 +2794,7 @@
 		{
       "scope": "comment.block.liquid",
       "settings": {
-        "foreground": "#5c5f5ce9"
+        "foreground": "#ffffff60"
       }
     },
 		{

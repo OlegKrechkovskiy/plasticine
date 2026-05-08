@@ -40,9 +40,9 @@ MIT - see license details [here][license-url]
 
 **Enjoy!**
 
-[version]: https://img.shields.io/badge/marketplace_-v0.8.2-orange
+[version]: https://img.shields.io/badge/marketplace_-v0.8.3-orange
 [license-badge]: https://img.shields.io/badge/license-MIT-blue
-[version]: https://img.shields.io/badge/v0.8.2-orange
+[version]: https://img.shields.io/badge/v0.8.3-orange
 [license-url]: https://github.com/OlegKrechkovskiy/plasticine/blob/main/LICENSE.md
 [market-url]:https://marketplace.visualstudio.com/items?itemName=myxlxal.plasticine
 
