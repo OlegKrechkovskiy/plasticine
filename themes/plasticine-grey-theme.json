@@ -2711,7 +2711,7 @@
 		{
 			"scope": "comment, string.comment, punctuation.definition.comment",
 			"settings": {
-				// "foreground": "#ffffff60",
+				"foreground": "#ffffff60",
 				"fontStyle": "italic"
 			}
 		},
@@ -2794,7 +2794,7 @@
 		{
       "scope": "comment.block.liquid",
       "settings": {
-        "foreground": "#ffffff60"
+        // "foreground": "#ffffff60"
       }
     },
 		{

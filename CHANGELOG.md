@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.8.4]
+- The color of the comment in the topic "Plastid grey" has been updated.
 ## [0.8.3]
 - Fixed the color of the comment in the topic "Plasticide Gray"
 ## [0.8.2]
