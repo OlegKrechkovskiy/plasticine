@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.8.6]
+- Fixed some colors.
 ## [0.8.5]
 - The color of the tags in the "Grey Plastic" theme has been changed.
 ## [0.8.4]
