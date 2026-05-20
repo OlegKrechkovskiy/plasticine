@@ -2,7 +2,7 @@
   "name": "plasticine",
   "displayName": "Plasticine",
   "description": "Theme with support liquid",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "engines": {
     "vscode": "^1.74.0"
   },
