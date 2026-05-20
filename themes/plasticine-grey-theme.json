@@ -54,7 +54,7 @@
 		"editorBracketHighlight.foreground1": "#d0cd2b",
 		"editorBracketMatch.background": "#14130663",
 		"editorBracketMatch.border": "#ffee03d7",
-		"editorCursor.foreground": "#539bf5",
+		"editorCursor.foreground": "#dfe4ed",
 		"editorError.background": "#e80c0874",
 		"editorGroup.border": "#444c56",
 		"editorGroupHeader.tabsBackground": "#1c2128",
@@ -98,14 +98,28 @@
 		"list.inactiveFocusOutline": "#a0a0a0",
 		"list.inactiveSelectionBackground": "#636e7b66",
 		"list.inactiveSelectionForeground": "#adbac7",
-    "minimap.findMatchHighlight": "#1084ff83",
-    "minimap.selectionHighlight": "#c6ccd787",
     "minimapSlider.activeBackground": "#4e5aa96a",
-    "minimapSlider.background": "#d5d5d51d",
-    "minimapSlider.hoverBackground": "#b3b6c745",
-    "minimapGutter.addedBackground": "#98C379",
-    "minimapGutter.deletedBackground": "#E06C75",
-    "minimapGutter.modifiedBackground": "#D19A66",
+    "minimapSlider.background": "#3d6aca3b",//00000071
+    "minimapSlider.hoverBackground": "#1e60f03b",
+    // "minimap.findMatchHighlight": "#1084ff83",
+    "minimap.selectionHighlight": "#fffffff1",
+    // "minimapGutter.addedBackground": "#98C379",
+    // "minimapGutter.deletedBackground": "#E06C75",
+    // "minimapGutter.modifiedBackground": "#D19A66",
+		"minimap.chatEditHighlight": "#22272e99",
+		"minimap.errorHighlight": "#ff1212b3",
+		"minimap.findMatchHighlight": "#ffd33d22",
+		"minimap.foregroundOpacity": "#000000",
+		"minimap.infoHighlight": "#59a4f9",
+		// "minimap.selectionHighlight": "#3392ff44",
+		"minimap.selectionOccurrenceHighlight": "#17e5e633",
+		"minimap.warningHighlight": "#cca700",
+		"minimapGutter.addedBackground": "#03b633e5",
+		"minimapGutter.deletedBackground": "#ff0000",
+		"minimapGutter.modifiedBackground": "#06e0f3",
+		// "minimapSlider.activeBackground": "#484f5844",
+		// "minimapSlider.background": "#484f581a",
+		// "minimapSlider.hoverBackground": "#484f5822",
 		"notificationCenterHeader.background": "#2d333b",
 		"notificationCenterHeader.foreground": "#768390",
 		"notifications.background": "#2d333b",
@@ -131,8 +145,8 @@
 		"quickInput.foreground": "#adbac7",
 		"scrollbar.shadow": "#00000088",
 		"scrollbarSlider.activeBackground": "#484f5888",
-		"scrollbarSlider.background": "#484f5833",
-		"scrollbarSlider.hoverBackground": "#484f5844",
+		"scrollbarSlider.background": "#0d0d0e61", //484f5833
+		"scrollbarSlider.hoverBackground": "#aaaadc61",
 		"settings.headerForeground": "#768390",
 		"settings.modifiedItemIndicator": "#e78a4e",
 		"sideBar.background": "#1c2128",
@@ -643,20 +657,6 @@
 		//"mergeEditor.conflict.unhandledFocused.border": "#ffa600",
 		//"mergeEditor.conflict.unhandledUnfocused.border": "#ffa6007a",
 		//"mergeEditor.conflictingLines.background": "#ffea0047",
-		//"minimap.chatEditHighlight": "#22272e99",
-		//"minimap.errorHighlight": "#ff1212b3",
-		//"minimap.findMatchHighlight": "#ffd33d22",
-		//"minimap.foregroundOpacity": "#000000",
-		//"minimap.infoHighlight": "#59a4f9",
-		//"minimap.selectionHighlight": "#3392ff44",
-		//"minimap.selectionOccurrenceHighlight": "#17e5e633",
-		//"minimap.warningHighlight": "#cca700",
-		//"minimapGutter.addedBackground": "#03b633e5",
-		//"minimapGutter.deletedBackground": "#ff0000",
-		//"minimapGutter.modifiedBackground": "#06e0f3",
-		//"minimapSlider.activeBackground": "#484f5844",
-		//"minimapSlider.background": "#484f581a",
-		//"minimapSlider.hoverBackground": "#484f5822",
 		//"multiDiffEditor.background": "#22272e",
 		//"multiDiffEditor.border": "#444c56",
 		//"multiDiffEditor.headerBackground": "#262626",
@@ -1148,12 +1148,12 @@
 				"fontStyle": "italic"
 			}
 		},
-		{
-			"scope": "variable.parameter.tsx",
-			"settings": {
-				"fontStyle": "italic"
-			}
-		},
+		// {
+		// 	"scope": "variable.parameter.tsx",
+		// 	"settings": {
+		// 		"fontStyle": "italic"
+		// 	}
+		// },
 		{
 			"scope": "variable.other.property.tsx",
 			"settings": {
@@ -2967,6 +2967,24 @@
 				"fontStyle": "italic"
 			}
 		},
+    {
+      "scope": "variable.parameter.js",
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": "italic",
+      }
+    },
+		{
+      "scope": [
+        "variable.parameter"
+        // "variable.parameter.tsx",
+        // "meta.parameter.object-binding-pattern.tsx",
+      ],
+      "settings": {
+        "foreground": "#C6CCD7",
+        "fontStyle": "italic"
+      }
+    },
 		{
 			"scope": [
 				"variable.language.this"

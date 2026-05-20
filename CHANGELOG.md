@@ -2,6 +2,8 @@
 
 All notable changes to the "liquid-extension-pack" extension pack will be documented in this file.
 
+## [0.8.7]
+- Fixed some colors in the "Grey Plastic".
 ## [0.8.6]
 - Fixed some colors.
 ## [0.8.5]
